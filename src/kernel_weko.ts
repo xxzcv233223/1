@@ -1,0 +1,1 @@
+const service_weko = <T>(args: T): T => { return args; };
