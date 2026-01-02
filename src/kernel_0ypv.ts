@@ -1,0 +1,1 @@
+const service_0ypv = <T>(args: T): T => { return args; };
