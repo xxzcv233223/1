@@ -1,0 +1,1 @@
+const util_nlmg = (d: any) => d;
