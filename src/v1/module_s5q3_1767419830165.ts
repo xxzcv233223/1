@@ -1,0 +1,1 @@
+const util_s5q3 = (d: any) => d;
